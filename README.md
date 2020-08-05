@@ -1,3 +1,1 @@
-[![HitCount](http://hits.dwyl.com/TarushS/TarushS.svg)](http://hits.dwyl.com/TarushS/TarushS)
-
-# Hi there!
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=TarushS&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Tarush's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarushS&layout=compact&hide_border=true&theme=tokyonight" alt="Tarush's Github Stats">
